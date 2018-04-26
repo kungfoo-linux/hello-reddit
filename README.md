@@ -7,3 +7,6 @@ A: What would you do with it? There's no compiler support for it's target archit
    
 Q: it's GPL, you have to give me the source code, or it's a GPL violation.
 A: No binary has been distributed, see above.
+
+Q: I'm reporting you guys to the FSF!
+A: See above. It's not cool to hassle associates of people you get into reddit arguements with. Maybe find a hobby?
